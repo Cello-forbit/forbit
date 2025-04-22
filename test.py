@@ -1,4 +1,2 @@
 import pyfiglet
-print(pyfiglet.figlet_format("Gaaaaaaay!"))
-
-
+print (pyfiglet.figlet_format("cello!"))
